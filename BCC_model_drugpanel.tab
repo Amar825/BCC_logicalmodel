@@ -1,0 +1,5 @@
+#Name	Effect	Target
+VI	inhibits	SMO	GLI_f
+AV	inhibits	cPLA2a	EP2
+CA	activates	VDR
+CP	inhibits	AKT
